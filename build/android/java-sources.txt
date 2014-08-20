@@ -1,0 +1,8 @@
+"C:/Users/owner/Documents/GitHub/pianod-mobile/build/android/gen/android/support/v7/appcompat/R.java"
+"C:/Users/owner/Documents/GitHub/pianod-mobile/build/android/gen/com/pianod/ApplicationStylesheet.java"
+"C:/Users/owner/Documents/GitHub/pianod-mobile/build/android/gen/com/pianod/AssetCryptImpl.java"
+"C:/Users/owner/Documents/GitHub/pianod-mobile/build/android/gen/com/pianod/PianodActivity.java"
+"C:/Users/owner/Documents/GitHub/pianod-mobile/build/android/gen/com/pianod/PianodAppInfo.java"
+"C:/Users/owner/Documents/GitHub/pianod-mobile/build/android/gen/com/pianod/PianodApplication.java"
+"C:/Users/owner/Documents/GitHub/pianod-mobile/build/android/gen/com/pianod/R.java"
+"C:/Users/owner/Documents/GitHub/pianod-mobile/build/android/gen/ti/modules/titanium/ui/R.java"
