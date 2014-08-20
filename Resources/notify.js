@@ -15,7 +15,7 @@ exports.notify = function(msg) {
     activityIndicator.message = msg + "\n"; 
     activityIndicator.show();
     Ti.API.info(msg + "\n");
-}
+};
 
-exports.addToWindow = function(win) { win.add(activityIndicator); }
-exports.hide        = function()    { activityIndicator.hide();   }
+exports.addToWindow = function(win) { win.add(activityIndicator); };
+exports.hide        = function()    { activityIndicator.hide();   };
